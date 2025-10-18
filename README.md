@@ -75,7 +75,7 @@ Subscribed customers contribute only 27% of total revenue, their average purchas
 ---
 
 ## 📈 Power BI Dashboard
-
+![Dashboard Preview](https://github.com/Kartik565/CUSTOMER-BEHAVIOR-ANALYSIS/blob/main/Customer_behaviour_dashboard_ss.png)
 
 ---
 
